@@ -1,0 +1,16 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="/cakecups/styles.css">
+</head>
+<body>
+<div class="homepage-main-section">
+  <div class="header">
+    <div class="header-logo">
+        Cakecups
+    </div>
+    <a class="header-cta" href="/cakecups/catalogue.html">
+        Browse catalogue
+    </a>
+  </div>
+</div>
+</body>
